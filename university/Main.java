@@ -17,7 +17,7 @@ public class Main {
         Scanner scanner = new Scanner(System.in);
 
         int option = 0;
-        while (option != 10) {
+        while (option != 7) {
             System.out.print("-----------\n" + university.getName() +
                     " University Menu: \n\t" +
                     "1. See all teachers\n\t" +
